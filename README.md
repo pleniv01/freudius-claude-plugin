@@ -69,13 +69,13 @@ to that conversation. The skill makes this distinction explicit.
 - [Terms](https://poo.ai/terms/)
 - [Support form](https://poo.ai/support/) — do not attach exports, raw chat text or access credentials.
 
-Poo is operated by Magichaus. This skill is intended for adults and is independent
+Poo is operated by Post Hoc Labs. This skill is intended for adults and is independent
 of Anthropic. It provides review guidance, not legal advice or a guarantee of
 deletion or privacy. No private export or application source is bundled.
 
 ## Publisher identity and directory review
 
-Poo.ai is the website and product operated by Magichaus at https://poo.ai.
+Poo.ai is the website and product operated by Post Hoc Labs at https://poo.ai.
 The plugin identifier `poo-ai`, display name `Poo.ai`, and publisher name identify
 that service. This plugin is not affiliated with, endorsed by, or connected to
 Calil (カーリル for AI / `caliljp`), Pomo, or Poof.

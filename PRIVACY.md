@@ -1,6 +1,6 @@
 # Poo.ai plugin privacy notice
 
-Updated October 26, 2026. Operator: Magichaus. This notice covers this Claude
+Updated October 26, 2026. Operator: Post Hoc Labs. This notice covers this Claude
 plugin, not all services available on the Poo.ai website.
 
 ## Within Claude

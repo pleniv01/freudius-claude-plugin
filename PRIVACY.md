@@ -1,5 +1,7 @@
 # Poo.ai plugin privacy notice
 
+Operated by [Post Hoc Labs](https://posthoc.me), a registered Maine DBA. Product names and support addresses remain unchanged.
+
 Updated October 26, 2026. Operator: Post Hoc Labs. This notice covers this Claude
 plugin, not all services available on the Poo.ai website.
 

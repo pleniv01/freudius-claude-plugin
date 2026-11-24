@@ -1,9 +1,12 @@
 {
   "name": "poo-ai",
   "displayName": "Poo.ai",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Review what you've shared with AI, separate evidence from guesses, and plan a private local export audit with Poo.ai.",
-  "author": { "name": "Poo.ai", "url": "https://poo.ai" },
+  "author": {
+    "name": "Post Hoc Labs",
+    "url": "https://posthoc.me"
+  },
   "homepage": "https://poo.ai",
   "repository": "https://github.com/pleniv01/poo-claude-plugin",
   "license": "MIT",
@@ -12,5 +15,10 @@
   "supportUrl": "https://poo.ai/support/",
   "termsOfServiceUrl": "https://poo.ai/terms/",
   "icon": ".claude-plugin/icon.svg",
-  "keywords": ["privacy", "ai-history", "local-first", "data-review"]
+  "keywords": [
+    "privacy",
+    "ai-history",
+    "local-first",
+    "data-review"
+  ]
 }

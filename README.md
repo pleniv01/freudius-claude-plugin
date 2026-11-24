@@ -1,5 +1,7 @@
 # Poo.ai for Claude
 
+Operated by [Post Hoc Labs](https://posthoc.me), a registered Maine DBA. Product names and support addresses remain unchanged.
+
 Review what you've shared with AI, separate visible evidence from model guesses,
 and make a practical cleanup plan. When you want to inspect an export, this skill
 guides you to [Poo.ai's local scanner](https://poo.ai/scan/) so your export can stay

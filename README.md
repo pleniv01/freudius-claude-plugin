@@ -26,12 +26,12 @@ plan availability apply; Poo's scanner entitlements are separate.
 For local Claude Code testing, clone this repository and run from its parent:
 
 ```sh
-claude --plugin-dir ./poo-claude-plugin
+claude --plugin-dir ./freudius-claude-plugin
 ```
 
 Use `/poo-ai:review-ai-privacy`, or ask for a personal AI privacy review.
 For manual Claude skill installation, download
-[poo-ai-skill.zip](https://github.com/pleniv01/poo-claude-plugin/releases/latest/download/poo-ai-skill.zip)
+[poo-ai-skill.zip](https://github.com/pleniv01/freudius-claude-plugin/releases/latest/download/poo-ai-skill.zip)
 and upload it using Customize → Skills.
 See [Anthropic's skill instructions](https://support.claude.com/en/articles/12512180-use-skills-in-claude).
 The directory submission and review are separate; this repository does not claim

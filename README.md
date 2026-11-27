@@ -1,3 +1,5 @@
+Paused: Claude directory submission withdrawn (Nov 2026) pending product redesign as Freudius.
+
 # Poo.ai for Claude
 
 Operated by [Post Hoc Labs](https://posthoc.me), a registered Maine DBA. Product names and support addresses remain unchanged.
